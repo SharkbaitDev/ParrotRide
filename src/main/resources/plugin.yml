@@ -1,0 +1,5 @@
+name: ParrotRide
+version: ${project.version}
+main: com.sharkbait.parrotride.Core
+authors: [Sharkbait]
+description: Ride parrots!
